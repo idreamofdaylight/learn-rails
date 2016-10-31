@@ -22,6 +22,7 @@ end
 
 # learn-rails
 gem 'bootstrap-sass'
+gem 'foundation-rails','~> 5.5'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
